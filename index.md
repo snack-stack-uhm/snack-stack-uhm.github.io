@@ -81,7 +81,6 @@ The live site can be accessed here: [Snack Stack](https://pantry-pal-gamma.verce
 ---
 
 ## Continuous Integration
-[![CI](https://github.com/snack-stack-uhm/snack-stack/actions/workflows/ci.yml/badge.svg)](https://github.com/snack-stack-uhm/snack-stack/actions/workflows/ci.yml)
 [![ci-badge](https://github.com/snack-stack-uhm/snack-stack/workflows/snack-stack-uhm/badge.svg)](https://github.com/snack-stack-uhm/snack-stack/actions/workflows/ci.yml)
 
 
