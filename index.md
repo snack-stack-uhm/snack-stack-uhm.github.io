@@ -203,11 +203,11 @@ Snack Stack is based upon the ICS Software Engineering [Next.js Application Temp
 [Milestone 1 Project Board](https://github.com/orgs/snack-stack-uhm/projects/1)
 
 ### Milestone 2 Progress
-[Milestone 2 Project Board](https://github.com/orgs/snack-stack-uhm/projects/2)
+[Milestone 2 Project Board](https://github.com/orgs/snack-stack-uhm/projects/4)
 
 
 ### Milestone 3 Progress
-[Milestone 2 Project Board](https://github.com/orgs/snack-stack-uhm/projects/3)
+[Milestone 2 Project Board](https://github.com/orgs/snack-stack-uhm/projects/6)
 
 
 ## Development Team
