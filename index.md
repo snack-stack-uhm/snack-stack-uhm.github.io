@@ -48,7 +48,7 @@ comment out add in later as we progress through project
 ## Overview
 
 ### Problem
-_What's the point of a pantry app?_
+_What's the point of a Snack Stack?_
 - People often forget what they have in their pantry, fridge, or spice rack
 - Expired food leads to waste and wasted money 
 - Grocery shopping is inefficient without knowing what's already at home
@@ -76,7 +76,7 @@ Snack Stack is deployed through Vercel, taking advantage of its seamless integra
 
 During each deployment, Vercel installs the project dependencies, generates the Prisma client, applies any pending database migrations, and then builds the Next.js application for production. Once the build process completes, Vercel publishes the new version of the site, replacing the old one with zero downtime. This automated flow allows the team to focus on development while keeping deployment consistent and reliable.
 
-The live site can be accessed here: [Snack Stack](https://pantry-pal-gamma.vercel.app)
+The live site can be accessed here: [Snack Stack](https://snack-stack-uhm.vercel.app/)
 
 ---
 
@@ -132,35 +132,32 @@ An intro to using Snack Stack
 
 ### Sign in page
 Sign up for Snack Stack and verify your email to sign in
-![Pantry App Sign Up_Screenshot](assets/m4/m4_signup.png)
-![Pantry App Sign In_Screenshot](assets/m4/m4_signin.png)
+![Snack Stack Sign Up_Screenshot](assets/images/signup.png)
+![Snack Stack Sign In_Screenshot](assets/images/signin.png)
 
 ### Dashboard
-Users have easy access to all pages through Pantry Pal's dashboard
-![Pantry App Dashboard_Screenshot](assets/m5/m5_dashboard.png)
+Users have easy access to all pages through Snack Stack's dashboard
+![Snack Stack Dashboard_Screenshot](assets/images/dashboard_page.png)
 
 ### View your pantry
 Snack Stack allows you to easily keep track of what ingredients you have in your household, where they are, and how much of them you have left
-![Pantry App InventoryList_Screenshot](assets/m5/m5_pantry_table.png)
-![Pantry App InventoryCards_Screenshot](assets/m5/m5_pantry_cards.png)
+![Snack Stack InventoryList_Screenshot](assets/images/pantry_table.png)
 
 ### Add and Edit your pantry
 Keep track of your spices and food by adding them to your pantry  
-![Pantry App Add Item_Screenshot](assets/m5/m5_addProduceModal.png)
-![Pantry App Edit Item_Screenshot](assets/m5/m5_editProduceModal.png)
-![Pantry App Delete Item_Screenshot](assets/m4/m4_deleteitem.png)
+![Snack Stack Add Item_Screenshot](assets/images/add_item.png)
+![Snack Stack Edit Item_Screenshot](assets/images/edit_item.png)
+![Snack Stack Delete Item_Screenshot](assets/images/delete_item.png)
 
 ### Create Shopping Lists
 Easily create and manage your shopping list based on what’s running low in your pantry. Check off items as you shop to keep your inventory up to date.
-![Pantry App CreateShoppingList_ScreenShot](assets/m6/m6_create_shoppinglist.png)
-![Pantry App ShoppingList_Screenshot](assets/m4/m4_shoppinglists.png)
-![Pantry App ViewShoppingList_Screenshot](assets/m4/m4_shoppinglist_view.png)
+![Snack Stack ShoppingList_Screenshot](assets/images/shopping_list.png)
+![Snack Stack CreateShoppingList_ScreenShot](assets/images/shopping_list_create.png)
+![Snack Stack ViewShoppingList_Screenshot](assets/images/shopping_list_edit.png)
 
 ### Find Recipes
 Discover recipes you can make with the ingredients you already have. Snack Stack helps you reduce waste and find meal ideas tailored to your pantry.
-![Pantry App Recipes Screenshot](assets/m5/m5_recipes.png)
-![Pantry App Recipes I Can Make](assets/m5/m5_recipes_make.png)
-![Pantry App Recipes Instructions](assets/m5/m5_recipes_instructions.png)
+![Snack Stack Recipes Screenshot](assets/images/recipes_page.png)
 
 ---
 
@@ -185,25 +182,33 @@ $ npm run dev
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
 ### Application Design
-Pantry Pal is based upon the ICS Software Engineering [Next.js Application Template](https://github.com/ics-software-engineering/nextjs-application-template).
+Snack Stack is based upon the ICS Software Engineering [Next.js Application Template](https://github.com/ics-software-engineering/nextjs-application-template).
 
 ---
 
 ## Milestones
   * [Milestone 1 Progress](#milestone-1-progress)
+  * [Milestone 2 Progress](#milestone-2-progress)
+  * [Milestone 3 Progress](#milestone-3-progress)
 
 
 ### Milestone 1 Progress
 [Milestone 1 Project Board](https://github.com/orgs/snack-stack-uhm/projects/1)
 
+### Milestone 2 Progress
+[Milestone 2 Project Board](https://github.com/orgs/snack-stack-uhm/projects/4)
+
+### Milestone 3 Progress
+[Milestone 3 Project Board](https://github.com/orgs/snack-stack-uhm/projects/6)
+
 
 
 ## Development Team
-<img src="assets/m4/githubicon.png" width="15" height="15">[Justin Eugene Natividad](https://github.com/jenativi)  
-<img src="assets/m4/githubicon.png" width="15" height="15">[Cassandra Huber](https://github.com/cassandrahuber)  
-<img src="assets/m4/githubicon.png" width="15" height="15">[Darin Wong](https://github.com/darinw7)  
-<img src="assets/m4/githubicon.png" width="15" height="15">[Justin Sumiye](https://github.com/jsumiye)  
-<img src="assets/m4/githubicon.png" width="15" height="15">[Min Jun Han](https://github.com/min-808)  
+<img src="assets/images/githubicon.png" width="15" height="15">[Justin Eugene Natividad](https://github.com/jenativi)  
+<img src="assets/images/githubicon.png" width="15" height="15">[Cassandra Huber](https://github.com/cassandrahuber)  
+<img src="assets/images/githubicon.png" width="15" height="15">[Darin Wong](https://github.com/darinw7)  
+<img src="assets/images/githubicon.png" width="15" height="15">[Justin Sumiye](https://github.com/jsumiye)  
+<img src="assets/images/githubicon.png" width="15" height="15">[Min Jun Han](https://github.com/min-808)  
 
 ## Team Contract
 [Link to Team Contract](https://docs.google.com/document/d/1agUDEXML0mpS8pNNdEmx55DyYQOOBeRJWTL9lC9QDy4/edit?usp=sharing)
