@@ -135,35 +135,32 @@ An intro to using Snack Stack
 
 ### Sign in page
 Sign up for Snack Stack and verify your email to sign in
-![Snack Stack Sign Up_Screenshot](assets/m4/m4_signup.png)
-![Snack Stack Sign In_Screenshot](assets/m4/m4_signin.png)
+![Snack Stack Sign Up_Screenshot](assets/images/signup.png)
+![Snack Stack Sign In_Screenshot](assets/images/signin.png)
 
 ### Dashboard
 Users have easy access to all pages through Snack Stack's dashboard
-![Snack Stack Dashboard_Screenshot](assets/m5/m5_dashboard.png)
+![Snack Stack Dashboard_Screenshot](assets/images/dashboard.png)
 
 ### View your pantry
 Snack Stack allows you to easily keep track of what ingredients you have in your household, where they are, and how much of them you have left
-![Snack Stack InventoryList_Screenshot](assets/m5/m5_pantry_table.png)
-![Snack Stack InventoryCards_Screenshot](assets/m5/m5_pantry_cards.png)
+![Snack Stack InventoryList_Screenshot](assets/images/pantry_list.png)
 
 ### Add and Edit your pantry
 Keep track of your spices and food by adding them to your pantry  
-![Snack Stack Add Item_Screenshot](assets/m5/m5_addProduceModal.png)
-![Snack Stack Edit Item_Screenshot](assets/m5/m5_editProduceModal.png)
-![Snack Stack Delete Item_Screenshot](assets/m4/m4_deleteitem.png)
+![Snack Stack Add Item_Screenshot](assets/images/add_pantry.png)
+![Snack Stack Edit Item_Screenshot](assets/images/edit_pantry.png)
+![Snack Stack Delete Item_Screenshot](assets/images/delete_item_pantry.png)
 
 ### Create Shopping Lists
 Easily create and manage your shopping list based on what’s running low in your pantry. Check off items as you shop to keep your inventory up to date.
-![Snack Stack CreateShoppingList_ScreenShot](assets/m6/m6_create_shoppinglist.png)
-![Snack Stack ShoppingList_Screenshot](assets/m4/m4_shoppinglists.png)
-![Snack Stack ViewShoppingList_Screenshot](assets/m4/m4_shoppinglist_view.png)
+![Snack Stack CreateShoppingList_ScreenShot](assets/images/create_shopping_list.png)
+![Snack Stack ShoppingList_Screenshot](assets/images/shopping_list.png)
+![Snack Stack ViewShoppingList_Screenshot](assets/images/view_shopping_list.png)
 
 ### Find Recipes
 Discover recipes you can make with the ingredients you already have. Snack Stack helps you reduce waste and find meal ideas tailored to your pantry.
-![Snack Stack Recipes Screenshot](assets/m5/m5_recipes.png)
-![Snack Stack Recipes I Can Make](assets/m5/m5_recipes_make.png)
-![Snack Stack Recipes Instructions](assets/m5/m5_recipes_instructions.png)
+![Snack Stack Recipes Screenshot](assets/images/recipes_page.png)
 
 ---
 
@@ -195,7 +192,9 @@ Snack Stack is based upon the ICS Software Engineering [Next.js Application Temp
 ## Milestones
   * [Milestone 1 Progress](#milestone-1-progress)
   * [Milestone 2 Progress](#milestone-2-progress)
-  * [Milestone 2 Progress](#milestone-3-progress)
+  * [Milestone 3 Progress](#milestone-3-progress)
+  * [Milestone 4 Progress](#milestone-4-progress)
+
 
 
 
@@ -207,7 +206,10 @@ Snack Stack is based upon the ICS Software Engineering [Next.js Application Temp
 
 
 ### Milestone 3 Progress
-[Milestone 2 Project Board](https://github.com/orgs/snack-stack-uhm/projects/6)
+[Milestone 3 Project Board](https://github.com/orgs/snack-stack-uhm/projects/6)
+
+### Milestone 4 Progress
+[Milestone 4 Project Board](https://github.com/orgs/snack-stack-uhm/projects/7)
 
 
 ## Development Team
