@@ -23,14 +23,11 @@ title: Snack Stack
     - [Add and Edit your pantry](#add-and-edit-your-pantry)
     - [Create Shopping Lists](#create-shopping-lists)
     - [Find Recipes](#find-recipes)
+  - [User Stories](#user-story)
   - [Developer Guide](#developer-guide)
     - [Installation](#installation)
     - [Application Design](#application-design)
   - [Milestones](#milestones)
-    - [Milestone 1 Progress](#milestone-1-progress)
-    - [Milestone 2 Progress](#milestone-1-progress)
-    - [Milestone 3 Progress](#milestone-1-progress)
-
   - [Development Team](#development-team)
   - [Team Contract](#team-contract-1)
 
@@ -164,6 +161,69 @@ Discover recipes you can make with the ingredients you already have. Snack Stack
 
 ---
 
+## User Story
+
+### User Story #1 - Mobile Friendly
+
+As an active user I really wish this was more accessible from my phone so that I don't need my laptop in the kitchen.
+
+![Mobile View Dashboard](assets/images/mobile_dashboard.png)
+![Mobile View Pantry](assets/images/mobile_pantry.png)
+![Mobile View Shopping List](assets/images/mobile_shopping_list.png)
+
+### User Story #2 - Food Item Quantities
+
+As a new user, when adding food to my shopping list and/or pantry the quantity and unit selections is really confusing and seemingly inaccurate, please make it all the same so that it is less confusing.
+
+![Standard Units Pantry](assets/images/units_pantry_1.png)
+![Standard Units Pantry](assets/images/units_pantry_2.png)
+![Standard Units Shopping List](assets/images/units_shopping_list.png)
+
+### User Story #3 - Cancel Button
+
+As an indecisive person, when editing my produce in my pantry the reset button does nothing next to the save button, I think it would be nice instead to have a cancel button that undos all changes made and exits so that it has a purpose and helps me.
+
+![Cancel Button](assets/images/cancel_button.png)
+
+### User Story #4 - Searching Ingredients
+
+As a person with a lot of shopping lists, when I am searching in my shopping lists I can only search for shopping list names, it would be nice to be able to search by ingredient also so I can see if my lists already have an item.
+
+![Search Ingredients](assets/images/search_ingredient_1.png)
+![Search Ingredients](assets/images/search_ingredient_2.png)
+
+### User Story #5 - Clickable Lists
+
+As a cook, to look at my shopping lists it is kind of inconvenient to have to click on view to see the list it would be faster to be able to click on the recipe itself and view it that way so that when I am busy cooking and multitasking its easier to see on command.
+
+![Search Ingredients](assets/images/clickable_list_1.png)
+![Search Ingredients](assets/images/clickable_list_2.png)
+
+### User Story #6 - Button Icons
+
+As someone with poor eyesight, the buttons on the editing items in shopping list and pantry are very large with the full words "edit" and "delete", I think it would look a lot cleaner/not take up the whole screen, if it was just icons of a pencil and a trash can instead.
+
+![Search Ingredients](assets/images/clickable_list_1.png)
+![Search Ingredients](assets/images/clickable_list_3.png)
+
+
+### User Story #7 - Show Recipes I can Make
+
+As a college student, with everything I have in my pantry, is there a way to see what I can make out of the recipes to make figuring out what to make easier?
+
+![Recipes Page](assets/images/recipes_page.png)
+
+### User Story #8 - Barcode Scanner 
+
+As a mom, I do not always have the time to always fill in all the information for each pantry item when I add them, I wish I could just scan the item with my camera and add it that way so that I can do it very quickly.
+
+![Recipes Page](assets/images/barcode_1.png)
+![Recipes Page](assets/images/barcode_2.png)
+
+### User Story #9 - Hiding Email
+
+As someone who values my privacy and my information, please remove my email from my recipes posts so that my email is hidden from other users.
+
 ## Developer Guide
 This section provides information of interest to developers wishing to use this code base as a basis for their own development tasks.
 
@@ -190,13 +250,6 @@ Snack Stack is based upon the ICS Software Engineering [Next.js Application Temp
 ---
 
 ## Milestones
-  * [Milestone 1 Progress](#milestone-1-progress)
-  * [Milestone 2 Progress](#milestone-2-progress)
-  * [Milestone 3 Progress](#milestone-3-progress)
-  * [Milestone 4 Progress](#milestone-4-progress)
-
-
-
 
 ### Milestone 1 Progress
 [Milestone 1 Project Board](https://github.com/orgs/snack-stack-uhm/projects/1)
@@ -211,6 +264,11 @@ Snack Stack is based upon the ICS Software Engineering [Next.js Application Temp
 ### Milestone 4 Progress
 [Milestone 4 Project Board](https://github.com/orgs/snack-stack-uhm/projects/7)
 
+### Milestone 5 Progress
+[Milestone 5 Project Board](https://github.com/orgs/snack-stack-uhm/projects/10)
+
+### Milestone 6 Progress
+[Milestone 6 Project Board](https://github.com/orgs/snack-stack-uhm/projects/11)
 
 ## Development Team
 <img src="assets/m4/githubicon.png" width="15" height="15">[Justin Eugene Natividad](https://github.com/jenativi)  
